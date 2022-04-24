@@ -1,11 +1,3 @@
-///////////// HW2 - OS /////////////
- 
-The authors contact information:
-
-Gil ben hamo - 315744557 
-Itzhak rahamim - 312202351
-___________________________________________________________________
-
 Description:
 
 This project is about creating a custom shell, that will support some of the original shell commands.
@@ -55,5 +47,3 @@ Example (3) - command: ls | wc -w
 
     gil : /home/gil/Desktop/hw2: >> ls | wc -w
     5
-
-____________________________________________________________________
